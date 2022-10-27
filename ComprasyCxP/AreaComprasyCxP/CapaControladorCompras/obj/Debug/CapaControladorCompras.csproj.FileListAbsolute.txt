@@ -52,3 +52,12 @@ C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP
 C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
 C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
 C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaControladorCompras.dll
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaControladorCompras.pdb
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaModeloCompras.dll
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaModeloCompras.pdb
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.AssemblyReference.cache
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CoreCompileInputs.cache
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb

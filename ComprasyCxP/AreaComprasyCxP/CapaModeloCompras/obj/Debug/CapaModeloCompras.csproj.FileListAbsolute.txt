@@ -34,3 +34,9 @@ C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP
 C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
 C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
 C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\bin\Debug\CapaModeloCompras.dll
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\bin\Debug\CapaModeloCompras.pdb
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.AssemblyReference.cache
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
+D:\GG\10mo Semestre\Aseguramiento de calidad de software\ComprasCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb

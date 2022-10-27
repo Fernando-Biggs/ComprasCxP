@@ -14,6 +14,8 @@ using CapaVistaReporte;
 namespace CapaVistaCompras
 {
     //Adolfo Monterroso Realizo el MDI y las integraciones del resto de objetos comunes 0901-18-50
+    // correcciones MDI
+    //correcciones 2.0
     public partial class Area_Compras : Form
     {        
 
